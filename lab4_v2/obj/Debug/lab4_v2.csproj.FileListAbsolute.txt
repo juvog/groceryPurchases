@@ -1,0 +1,15 @@
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\bin\Debug\lab4_v2.exe.config
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\bin\Debug\lab4_v2.exe
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\bin\Debug\lab4_v2.pdb
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2.csproj.AssemblyReference.cache
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\MainWindow.g.cs
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\App.g.cs
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2_MarkupCompile.cache
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2_MarkupCompile.lref
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\MainWindow.baml
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2.g.resources
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2.Properties.Resources.resources
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2.csproj.GenerateResource.cache
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2.csproj.CoreCompileInputs.cache
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2.exe
+G:\projets_web_perso\CSHARP\revisions\lab4_v2\lab4_v2\obj\Debug\lab4_v2.pdb
